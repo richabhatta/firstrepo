@@ -1,0 +1,12 @@
+commands we learned.
+1.git config --global user.name "richabhatta"
+2. git config --global user.email "richabhatta08@gmail.com"
+3. git init - used for initialization 
+4. git status - to check the status
+5. history - to check the commands given in git bash git add . 
+6. git commit -m "commit message(add todo list items)":
+7. git add . 
+8. git commit -m "add commands and append new item into todo list"
+
+
+
